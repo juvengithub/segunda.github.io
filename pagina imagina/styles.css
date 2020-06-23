@@ -1,0 +1,296 @@
+#pricing {
+  min-width: 220px;
+  max-width: 320px;
+  padding-bottom: 60px;
+}
+
+.pricing-top {
+
+  margin:0 100px 0;
+  padding:50px 16px;
+}
+.wrap-pricing-container {
+  background-image: url(tab.jpg);
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+
+.personal-transparency {
+  opacity: 0.5;
+}
+.covid {
+  display: table;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(covid.jpg);
+
+  filter: brightness(30%);
+  width: 100vw;
+  height:300px;
+  position: static;
+}
+.covid-hero-header {
+
+display: table-cell;
+vertical-align: middle;
+color:white;
+
+}
+/* .image-covid {
+
+  background-repeat: no-repeat;
+  background-size: contain;
+position: relative;
+  filter: brightness(30%);
+  width: 600px;
+  height: 300px;
+
+} */
+
+.ala {
+
+  display: table;
+  width: 100vw;
+  height: 350px;
+  background-size: cover;
+
+}
+.bbb {
+  position: absolute;
+  z-index:-1;
+  filter: brightness(30%);
+min-width: 100vw;
+min-height: 500px;
+
+
+
+
+
+}
+.banner-covid-wrapper {
+  width: 100vw;
+  height: 400px;
+  }
+.ver {
+  vertical-align: middle;
+}
+.my-pricing-content {
+  padding: 25px 0 25px;
+}
+.faq-header {
+  padding: 60px;
+
+
+  }
+
+.faq-title {
+  padding:20px;
+
+}
+
+
+  .faq-wrap {
+    background-image: url(concert.jpg);
+
+  }
+.my-display {
+  display:block;
+}
+.my-container-rem {
+  width: 500px;
+}
+.gtr-section-wrapper {
+
+
+}
+.call-to-action {
+  position: relative;
+  background-image: url(guitarra3.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align:center;
+  margin-bottom:  60px;
+
+
+}
+.div-content {
+  position: absolute;
+  top:50%;
+  left:50%;
+  -ms-transform: translate(-50%,-50%); /* IE 9 */
+ transform: translate(-50%,-50%); /* Standard syntax */
+ color: #fff;
+}
+ .banner {
+
+   position: relative;
+   background-image: url(covid.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   height: 200px;
+
+   text-align: center;
+ }
+ .shadow {
+   height: 100vh;
+   background: rgba(0, 0, 0,.8);
+ }
+.banner-content {
+  position: absolute;
+  top: 50%;
+  left:50%;
+  -ms-transform: translate(-50%,-50%); /* IE 9 */
+ transform: translate(-50%,-50%); /* Standard syntax */
+ color: #fff ;
+}
+
+.cabecera-superior {
+  text-align: center;
+}
+/* .logo-container {
+  width: 125px;
+  display: inline-block;
+
+}
+.logo {
+  width: 100%;
+
+} */
+.div-content h1 span {
+  color: white;
+  font-size: 1.5em;
+  font-weight: 400;
+
+}
+/* .horizontal-features {
+  height:65px;
+
+} */
+.small-tax {
+  font-size: .2em;
+
+}
+.fas {
+  color:blue;
+}
+.features-text {
+  display: inline;
+
+width:100%;
+color: black;
+margin:0;
+font-size: 1.7rem;
+
+}
+/* @media screen and (max-width:576px) {
+  .horizontal-features {
+    text-align: center;
+  }
+} */
+.envolv {
+display: table;
+
+}
+.horizontal-features{
+
+  display: table-cell;
+  text-align: left;
+  vertical-align: middle;
+}
+.horizontal-features div {
+  padding:0;
+  margin: 6px 0 5px 0;
+}
+.horizontal-features i {
+  margin-right: 5px;
+
+}
+/* .cc {
+  display: inline-block;
+  padding-right: 7px;
+} */
+
+@media screen and (max-width:790px) {
+  .horizontal-features i {
+    width:100%;
+  }
+}
+.responsive-background {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(guitarrist.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.responsive-text-content {
+  width: 80%
+  height: 80%;
+  padding: 30px;
+}
+.image-responsive-section {
+max-width: 100%;
+}
+
+.responsive-wrap-sections {
+  margin:45px auto;
+  /* border: solid black 1px;
+  border-color: 808080px; */
+}
+.foto-muestra-galeria {
+  width:90%;
+  height: auto;
+}
+/* .img-gallery-section {
+  width: 100%;
+} */
+.video-img {
+  width: 90%;
+}
+.img-html5player {
+  width:100%;
+}
+.icono-y-parrafo {
+  padding: 40px 0;
+}
+.descuento {
+  position: absolute;
+  opacity: .85;
+  width:250px;
+  left: 525px;
+  top: 150px;
+
+}
+.logo-img {
+  width: 100px;
+}
+.img-develop {
+  width: 350px;
+}
+/* .bootstrap-logo {
+  height: 100%;
+} */
+
+.html5-logo {
+  max-height: 211px;
+}
+.centrado-de-card {
+  text-align: center;
+}
+.pricing-color {
+  background-color: blue;
+}
+/* .list-color {
+  background-color:rgb(0, 173, 241);
+
+} */
+.logo-imagina {
+  width: 200px;
+}
+.subtitle-main-header {
+  margin-bottom:70px;
+}
